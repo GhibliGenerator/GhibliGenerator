@@ -1,11 +1,12 @@
 <h1 align="center">Ghibli Generator - AI-Powered Animation System</h1>
 
 <p align="center">
-  <img src="Graphic.png" alt="Ghibli Generator Logo" width="300">
+  <img src="Graphic1.png" alt="Ghibli Generator Logo" width="300">
 </p>
 
 <p align="center">
   <a href="https://ghibligenerator.fun/">🌐 Visit Our Website</a>
+   <a href="https://x.com/GhibliGenX">🐦 Follow Us on Twitter</a>
 </p>
 
 Enterprise-grade AI system for transforming images into Studio Ghibli-style animated videos.
